@@ -1,0 +1,1 @@
+{"name":"Local: sum_subarr","url":"e:\\C++Prac\\array\\sum_subarr.cpp","tests":[{"id":1624937503706,"input":"5\n1 2 3 7 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++Prac\\array\\sum_subarr.cpp","group":"local","local":true}

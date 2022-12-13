@@ -1,0 +1,1 @@
+{"name":"Local: startEndSum","url":"e:\\C++Prac\\array\\startEndSum.cpp","tests":[{"id":1625029276577,"input":"4\n5\n1 2 3 8","output":"2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++Prac\\array\\startEndSum.cpp","group":"local","local":true}

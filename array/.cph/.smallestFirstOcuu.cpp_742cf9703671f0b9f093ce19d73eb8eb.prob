@@ -1,0 +1,1 @@
+{"name":"Local: smallestFirstOcuu","url":"e:\\C++Prac\\array\\smallestFirstOcuu.cpp","tests":[{"id":1625023809665,"input":"7\n1 5 3 4 3 5 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++Prac\\array\\smallestFirstOcuu.cpp","group":"local","local":true}

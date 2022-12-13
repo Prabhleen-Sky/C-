@@ -1,0 +1,1 @@
+{"name":"Local: checkPythagoreanTriplet","url":"e:\\C++Prac\\functions\\checkPythagoreanTriplet.cpp","tests":[{"id":1624524709954,"input":"3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++Prac\\functions\\checkPythagoreanTriplet.cpp","group":"local","local":true}

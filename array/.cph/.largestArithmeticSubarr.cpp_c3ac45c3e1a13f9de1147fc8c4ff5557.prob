@@ -1,0 +1,1 @@
+{"name":"Local: largestArithmeticSubarr","url":"e:\\C++Prac\\array\\largestArithmeticSubarr.cpp","tests":[{"id":1625022255072,"input":"8\n3 3 2 4 6 8 5 10","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++Prac\\array\\largestArithmeticSubarr.cpp","group":"local","local":true}
